@@ -278,7 +278,7 @@
       "other": "$n Результатов"
     },
     "no_result_notice": "Нет результатов",
-    "search_in_progress_notice": "Поиск...",
+    "search_in_progress_notice": "Идёт Поиск...",
     "raw_query": "Необработанный запрос"
   },
   "pool": {
