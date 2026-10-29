@@ -478,7 +478,7 @@
         "timeout_immediately": "Сразу",
         "timeout_seconds": "сек",
         "timeout_one_minute": "1 минута",
-        "timeout_minutes": "мин",
+        "timeout_minutes": "$minutes минут",
         "unlock_app": "Разблокировать Boorusama",
         "incorrect_pin": "Неверный ПИН-код",
         "try_again_in": "Повторите попытку через $second сек.",
